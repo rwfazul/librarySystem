@@ -1,6 +1,6 @@
 # LIBRARY SYSTEM
 
-USO:
+# Uso:
 
 Fazer bakcup do arquivo "sistemaLivraria.backup" no Postgres.
 

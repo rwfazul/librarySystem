@@ -1,0 +1,3 @@
+sistemaLivraria.backup -> Backup do banco no Postgres
+
+Multas -> As multas são calculadas automaticamente, porém para facilitar os testes, é possível setar um valor de multa ao inserir um novo usário.
